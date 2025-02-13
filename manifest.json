@@ -1,0 +1,26 @@
+{
+    "theme_color": "#222222",
+    "background_color": "#222222",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "img/icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "img/icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "de",
+    "description": "Mit dieser Tachometer-App kannst du deine aktuelle Geschwindigkeit in km/h präzise messen – ideal für Auto, Fahrrad oder Laufen. Einfache Bedienung, modernes Design und GPS-genaue Daten!",
+    "name": "Tachometer",
+    "short_name": "Tachometer",
+    "start_url": "/Tachometer/index.html"
+}
