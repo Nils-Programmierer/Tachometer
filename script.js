@@ -36,7 +36,6 @@ function getSpeed() {
                 }
             },
             (error) => {
-                alert("Fehler beim Abrufen der Geschwindigkeit!");
                 console.error("Fehler beim Abrufen der Geschwindigkeit:", error);
             },
             { enableHighAccuracy: true }
