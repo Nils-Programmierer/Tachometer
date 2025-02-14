@@ -36,11 +36,13 @@ function getSpeed() {
                 }
             },
             (error) => {
+                alert("Fehler beim Abrufen der Geschwindigkeit!");
                 console.error("Fehler beim Abrufen der Geschwindigkeit:", error);
             },
             { enableHighAccuracy: true }
         );
     } else {
+        alert("Geolocation wird nicht unterstützt.");
         console.error("Geolocation wird nicht unterstützt.");
     }
 }
