@@ -4,3 +4,4 @@ Mit dieser Tachometer-App kannst du deine aktuelle Geschwindigkeit in km/h präz
 Dieses Projekt verwendet HTML, CSS und JavaScript sowie die [Geolocation-API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API).
 ## Benutzung
 - Öffne die [Website](https://nils-programmierer.github.io/Tachometer/)
+- Aktiviere die Standortfreigabe
